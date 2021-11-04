@@ -120,7 +120,7 @@
     "@typescript-eslint/parser": "^4.31.1",
     "async": "^3.2.1",
     "await-sleep": "0.0.1",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^8.2.3",
     "babel-plugin-styled-components": "^1.13.3",
     "babel-preset-env": "^1.7.0",
     "chalk": "^4.1.2",
@@ -188,7 +188,7 @@
     "jest-puppeteer": "^5.0.4",
     "jimp": "^0.16.1",
     "pa11y-ci": "^2.4.2",
-    "puppeteer": "^9.1.1",
+    "puppeteer": "^11.0.0",
     "xlsx-populate": "^1.21.0"
   },
   "private": true,
