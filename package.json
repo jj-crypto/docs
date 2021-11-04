@@ -112,7 +112,7 @@
     "@types/imurmurhash": "^0.1.1",
     "@types/js-cookie": "^3.0.0",
     "@types/lodash": "^4.14.175",
-    "@types/react": "^17.0.30",
+    "@types/react": "^17.0.34",
     "@types/react-dom": "^17.0.9",
     "@types/react-syntax-highlighter": "^13.5.2",
     "@types/uuid": "^8.3.1",
@@ -188,7 +188,7 @@
     "jest-puppeteer": "^5.0.4",
     "jimp": "^0.16.1",
     "pa11y-ci": "^2.4.2",
-    "puppeteer": "^9.1.1",
+    "puppeteer": "^11.0.0",
     "xlsx-populate": "^1.21.0"
   },
   "private": true,
