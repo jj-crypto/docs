@@ -151,7 +151,7 @@
     "jest": "^27.3.0",
     "jest-github-actions-reporter": "^1.0.3",
     "jest-slow-test-reporter": "^1.0.0",
-    "linkinator": "^2.14.4",
+    "linkinator": "^2.14.5",
     "lint-staged": "^11.2.4",
     "make-promises-safe": "^5.1.0",
     "minimatch": "^3.0.4",
@@ -188,7 +188,7 @@
     "jest-puppeteer": "^5.0.4",
     "jimp": "^0.16.1",
     "pa11y-ci": "^2.4.2",
-    "puppeteer": "^9.1.1",
+    "puppeteer": "^11.0.0",
     "xlsx-populate": "^1.21.0"
   },
   "private": true,
