@@ -11,7 +11,7 @@
   "dependencies": {
     "@alex_neo/jest-expect-message": "^1.0.5",
     "@hapi/accept": "^5.0.2",
-    "@primer/components": "^31.1.0",
+    "@primer/components": "^33.1.0",
     "@primer/css": "^18.2.0",
     "@primer/octicons": "^16.2.0",
     "@primer/octicons-react": "^16.2.0",
@@ -91,7 +91,7 @@
     "styled-components": "^5.3.3",
     "throng": "^5.0.0",
     "ts-dedent": "^2.2.0",
-    "unified": "^10.1.0",
+    "unified": "^10.1.1",
     "unist-util-visit": "^4.1.0",
     "uuid": "^8.3.2",
     "walk-sync": "^3.0.0"
